@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE rules SYSTEM "https://resources.jetbrains.com/writerside/1.0/redirection-rules.dtd">
+<rules>
+    <!-- format is as follows
+    <rule id="<unique id>">
+        <accepts>page.html</accepts>
+    </rule>
+    -->
+    <rule id="2403008d">
+        <description>Created after removal of "eco2" from ECO</description>
+        <accepts>eco2.html</accepts>
+    </rule>
+    <rule id="20e280c5">
+        <description>Created after removal of "Empty MD Topic" from ECO</description>
+        <accepts>Empty-MD-Topic.html</accepts>
+    </rule>
+    <rule id="60e8b28">
+        <description>Created after removal of "eco1" from ECO</description>
+        <accepts>eco1.html</accepts>
+    </rule>
+    <rule id="609d7ab1">
+        <description>Created after removal of "About ECO" from ECO</description>
+        <accepts>eco.html</accepts>
+    </rule>
+</rules>
