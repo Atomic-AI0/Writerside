@@ -3,7 +3,7 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="e"
-                 name="ECO"
+                 name="Insentek"
                  start-page="E生态开放接口文档Ver3.1.4.md">
 
     <toc-element topic="ECO.md">
