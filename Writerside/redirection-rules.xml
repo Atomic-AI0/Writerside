@@ -30,4 +30,32 @@
         <description>Created after removal of "一棵智慧农业《用户服务协议和隐私政策》" from ECO</description>
         <accepts>一棵智慧农业《用户服务协议和隐私政策》.html</accepts>
     </rule>
+    <rule id="4b213776">
+        <description>Created after removal of "About Insentek" from Insentek</description>
+        <accepts>insentek.html</accepts>
+    </rule>
+    <rule id="334b3aad">
+        <description>Created after removal of "E生态开放接口文档Ver3.1.4" from Insentek</description>
+        <accepts>E生态开放接口文档Ver3-1-4.html</accepts>
+    </rule>
+    <rule id="69b264d4">
+        <description>Created after removal of "Starter" from Insentek</description>
+        <accepts>Starter.html</accepts>
+    </rule>
+    <rule id="7cdc6bb5">
+        <description>Created after removal of "E生态墒情高级识别相关开放接口（合作伙伴有限开放）-2023.3.21" from
+            Insentek
+        </description>
+        <accepts>e生态墒情高级识别相关开放接口（合作伙伴有限开放）-2023-3-21.html</accepts>
+    </rule>
+    <rule id="364c4571">
+        <description>Created after removal of "e生态墒情高级识别相关开放接口（合作伙伴有限开放）-2023.3.21" from
+            Insentek
+        </description>
+        <accepts>e生态墒情高级识别相关开放接口（合作伙伴有限开放）-2023-3-21.html</accepts>
+    </rule>
+    <rule id="341c21c7">
+        <description><![CDATA[Created after removal of "<123.md>" from Insentek]]></description>
+        <accepts>123.html</accepts>
+    </rule>
 </rules>
