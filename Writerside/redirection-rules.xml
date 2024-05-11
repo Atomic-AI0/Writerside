@@ -22,4 +22,12 @@
         <description>Created after removal of "About ECO" from ECO</description>
         <accepts>eco.html</accepts>
     </rule>
+    <rule id="263a6d9c">
+        <description>Created after removal of "一棵开放接口文档 v1.2" from ECO</description>
+        <accepts>一棵开放接口文档-v1-2.html</accepts>
+    </rule>
+    <rule id="2e8e1ddf">
+        <description>Created after removal of "一棵智慧农业《用户服务协议和隐私政策》" from ECO</description>
+        <accepts>一棵智慧农业《用户服务协议和隐私政策》.html</accepts>
+    </rule>
 </rules>
