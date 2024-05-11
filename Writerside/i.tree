@@ -4,9 +4,9 @@
 
 <instance-profile id="i"
                  name="Insentek"
-                 start-page="E生态.md">
+                 start-page="eco.md">
 
-    <toc-element topic="E生态.md">
+    <toc-element topic="eco.md">
         <toc-element topic="opapi-yh.md"/>
         <toc-element topic="open-api.md"/>
     </toc-element>
