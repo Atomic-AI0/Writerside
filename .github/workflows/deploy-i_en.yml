@@ -7,7 +7,7 @@ on:
 
 env:
   INSTANCE: 'Writerside/i_en'
-  ARTIFACT: 'webHelpI2-en-all.zip'
+  ARTIFACT: 'webHelpI_EN2-all.zip'
   DOCKER_VERSION: '241.15989'
 
 jobs:
