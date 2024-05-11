@@ -22,5 +22,10 @@
             <noindex-content>true</noindex-content>
         </variables>
     </build-profile>
+    <build-profile instance="i_en">
+        <variables>
+            <noindex-content>true</noindex-content>
+        </variables>
+    </build-profile>
 
 </buildprofiles>
